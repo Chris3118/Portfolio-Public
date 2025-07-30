@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Portafolio de Christian Alejandro Dávila Fuentes
 
-## Getting Started
+¡Bienvenido/a a mi portafolio personal!  
+Este sitio web ha sido desarrollado con **Next.js**, **Tailwind CSS** y **Framer Motion**, y está pensado para mostrar quién soy, qué hago y cómo pienso.
 
-First, run the development server:
+🔗 **Sitio desplegado en Vercel:**  
+👉 [https://portfolio-public.vercel.app](https://portfolio-public.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧑‍💻 Sobre mí
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Soy un apasionado por la tecnología, el desarrollo de software y el aprendizaje continuo. Me considero una persona autodidacta, proactiva y comprometida con la mejora constante. Me encanta enfrentar nuevos desafíos y aprender de ellos rápidamente.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Mi filosofía se basa en el **aprendizaje constante**, la adaptabilidad y la colaboración. Creo firmemente que el crecimiento profesional es un viaje, no un destino.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 ¿Qué encontrarás en este portafolio?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **📁 Proyectos:**  
+  Muestra de mis trabajos más representativos, tanto personales como colaborativos. Incluyen apps móviles, páginas web, proyectos con inteligencia artificial, entre otros.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **📜 Certificados:**  
+  Reconocimientos y certificaciones que validan mis competencias técnicas y mi participación activa en eventos académicos.
 
-## Deploy on Vercel
+- **🤝 Habilidades blandas:**  
+  Comunicación efectiva, liderazgo, trabajo en equipo, pensamiento crítico, gestión del tiempo, entre otras.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **📞 Contacto:**  
+  Redes profesionales y sociales para para que puedas ponerte en contacto conmigo de manera directa.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠️ Tecnologías principales
+
+- **Lenguajes:** JavaScript, TypeScript, Python, Java, Dart, Python
+- **Frameworks:** Next.js, React, Node.js, Express, Flutter, 
+- **Estilos:** Tailwind CSS, CSS Modules
+- **Herramientas:** Git, GitHub, Vercel, Firebase, Figma
+
+---
+
+## 💡 Filosofía de aprendizaje
+
+Me apasiona **aprender cosas nuevas rápidamente** y aplicarlas en proyectos reales. Soy de los que no se detienen hasta entender el "por qué" y el "cómo" de cada tecnología. Siempre estoy buscando formas de optimizar, refactorizar y evolucionar mis desarrollos.
+
+---
+
+## 📫 ¿Hablamos?
+
+Si deseas colaborar, tienes alguna propuesta o simplemente quieres conversar, no dudes en escribirme a través de mi contacto que esta en la pagina de mi portafolio.
+
+---
+
+Gracias por visitar mi portafolio 🙌
